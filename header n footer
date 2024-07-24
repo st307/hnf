@@ -37,6 +37,9 @@ body {
   <p>hi there.</p>
   <p>hi there.</p>
 </div>
-
+<footer>
+  <p>Author: suryansh tiwari</p>
+  <p><a href="mailto:tsuryansh347@gmail.com"></a></p>
+</footer>
 </body>
 </html>
